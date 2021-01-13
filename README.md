@@ -1,5 +1,5 @@
-# Ohjelmointi 2
+# Henkilötietojärjestelmä
 
- Ohjelmointi 2 lopputyö
+ Ohjelmointi 2 -kurssin lopputyö.
 
-Ohjelmointikieli C#
+Ohjelmointikieli C# - Windows Forms
